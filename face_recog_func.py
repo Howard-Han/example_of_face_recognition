@@ -206,4 +206,4 @@ def show_prediction_labels_on_image(img_path, predictions, color_t, status, path
         pil_image.save(path_for_save)
 
 
-#
+##
